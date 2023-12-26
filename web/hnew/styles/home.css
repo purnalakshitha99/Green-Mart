@@ -1,0 +1,1362 @@
+
+html {
+	font-size:8px;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  
+}.home-dmo {
+  width: 100%;
+  height: 552.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.home-dmo .auto-group-ef7k-Yds {
+  width: 219.3rem;
+  height: 125.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.home-dmo .auto-group-ef7k-Yds .rectangle-469-qss {
+  width: 62.7477rem;
+  height: 58.562rem;
+  position: absolute;
+  left: 118.1rem;
+  top: 28.9rem;
+  filter: blur(18.23rem);
+  background-color: #baefc5;
+  border-radius: 7.4rem;
+}
+.home-dmo .auto-group-ef7k-Yds .rectangle-471-7qP {
+  width: 60.9295rem;
+  height: 58.6rem;
+  position: absolute;
+  left: 0;
+  top: 23.5rem;
+  filter: blur(18.23rem);
+  background-color: #baefc5;
+  border-radius: 7.4rem;
+}
+.home-dmo .auto-group-ef7k-Yds .special-bar-E9K {
+  width: 192rem;
+  height: 17.8rem;
+  position: absolute;
+  left: 0;
+  top: 102.5rem;
+  background-color: rgba(98, 214, 117, 0.3799999952);
+}
+.home-dmo .auto-group-ef7k-Yds .free-delivery-A2y {
+  width: 18.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 24.4rem;
+  top: 107.9rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-ef7k-Yds .rectangle-1-4PF {
+  width: 16.9rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 48.1rem;
+  top: 68.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 16.6rem;
+}
+.home-dmo .auto-group-ef7k-Yds .shop-now-nKF {
+  width: 11.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 50.7rem;
+  top: 69.5rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-ef7k-Yds .fast-icon-srV {
+  width: 9.8rem;
+  height: 9.8rem;
+  position: absolute;
+  left: 11.3rem;
+  top: 105.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-ef7k-Yds .refund-1-cJH {
+  width: 8.6rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 55.4rem;
+  top: 106.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-ef7k-Yds .credit-card-1-x7F {
+  width: 9.8rem;
+  height: 8.7111rem;
+  position: absolute;
+  left: 105.5rem;
+  top: 107.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-ef7k-Yds .over-100-5xZ {
+  width: 10.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 23.9rem;
+  top: 111.6rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-ef7k-Yds .secure-payment-QE9 {
+  width: 22.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 116.9rem;
+  top: 108.3rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-ef7k-Yds .secure-JqK {
+  width: 13.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 116.9rem;
+  top: 112.3rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-ef7k-Yds .x-7-support-Rf3 {
+  width: 19.5rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 160.9rem;
+  top: 108rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-ef7k-Yds .dedicated-support-wdP {
+  width: 20.3rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 160.9rem;
+  top: 112.1rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-ef7k-Yds .days-return-G9s {
+  width: 21.2rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 66.3rem;
+  top: 108.1rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-ef7k-Yds .if-you-have-any-problem-agM {
+  width: 26.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 66.3rem;
+  top: 112.1rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-ef7k-Yds .chat-1-JMT {
+  width: 7.6rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 150.2rem;
+  top: 108.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-ef7k-Yds .home-image-EW1 {
+  width: 150.9rem;
+  height: 93.6rem;
+  position: absolute;
+  left: 41.1rem;
+  top: 8.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-ef7k-Yds .super-healthy-organic-products-mkq {
+  width: 57.1rem;
+  height: 16.3rem;
+  position: absolute;
+  left: 28rem;
+  top: 43.7rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2725;
+  color: #000000;
+  font-family: Chelsea Market, 'Source Sans Pro';
+}
+.home-dmo .auto-group-ef7k-Yds .logo-bar-sos {
+  width: 192rem;
+  height: 21.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(113, 222, 137, 0.4900000095);
+}
+.home-dmo .auto-group-ef7k-Yds .rectangle-470-RaV {
+  width: 18.4rem;
+  height: 19rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 86.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0 0 0 11.5rem;
+}
+.home-dmo .auto-group-ef7k-Yds .user-icon-Yf7 {
+  width: 3.4571rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 153.8rem;
+  top: 11.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-ef7k-Yds .shopping-cart-icon-HMo {
+  width: 3.3786rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 177.8rem;
+  top: 11.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-ef7k-Yds .blog-pMj {
+  width: 15.2rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 159.2rem;
+  top: 11.8rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-ef7k-Yds .home-KZP {
+  width: 6.1rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 71rem;
+  top: 12.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-ef7k-Yds .products-3EV {
+  width: 9.2rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 81.4rem;
+  top: 12.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-ef7k-Yds .about-xcM {
+  width: 6.2rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 93.3rem;
+  top: 12.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-ef7k-Yds .blog-Uah {
+  width: 4.5rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 115.6rem;
+  top: 12.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-ef7k-Yds .contact-us-bfK {
+  width: 10.9rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 101.9rem;
+  top: 12.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-ef7k-Yds .rectangle-18-KLR {
+  width: 52rem;
+  height: 23.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-dmqr-4Yu {
+  width: 192rem;
+  height: 232.7rem;
+  position: absolute;
+  left: 0;
+  top: 149.4rem;
+}
+.home-dmo .auto-group-dmqr-4Yu .product-bar-AM3 {
+  width: 192rem;
+  height: 60.3rem;
+  position: absolute;
+  left: 0;
+  top: 11.6rem;
+  background-color: rgba(106, 209, 123, 0.3799999952);
+}
+.home-dmo .auto-group-dmqr-4Yu .product-bar-uJd {
+  width: 192rem;
+  height: 99.2rem;
+  position: absolute;
+  left: 0;
+  top: 103.9rem;
+  background-color: #b3ea9f;
+}
+.home-dmo .auto-group-dmqr-4Yu .ellipse-1-en1 {
+  width: 65.7rem;
+  height: 44.9rem;
+  position: absolute;
+  left: 64rem;
+  top: 81.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-dmo .auto-group-dmqr-4Yu .ellipse-2-CHj {
+  width: 65.7rem;
+  height: 44.9rem;
+  position: absolute;
+  left: 64rem;
+  top: 180.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-dmo .auto-group-dmqr-4Yu .logo-Leq {
+  width: 90rem;
+  height: 76.9rem;
+  position: absolute;
+  left: 47.4rem;
+  top: 66.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-dmqr-4Yu .why-choose-us--HKB {
+  width: 42.1rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 74.9rem;
+  top: 151.8rem;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2725;
+  color: #000000;
+  font-family: Chelsea Market, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-dmqr-4Yu .rectangle-2-bKs {
+  width: 32.8rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 80.2rem;
+  top: 69.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 16.6rem;
+}
+.home-dmo .auto-group-dmqr-4Yu .all-products-XjK {
+  width: 22.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 85.6rem;
+  top: 71.1rem;
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  letter-spacing: 0.238rem;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-dmqr-4Yu .shop-now-F9X {
+  width: 8rem;
+  height: 2rem;
+  position: absolute;
+  left: 54.6rem;
+  top: 1.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-dmqr-4Yu .shop-now-kry {
+  width: 4.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 74.2rem;
+  top: 1.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-dmqr-4Yu .breads-gVj {
+  width: 5.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 95.1rem;
+  top: 1.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-dmqr-4Yu .beans-c8V {
+  width: 4.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 1.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-dmqr-4Yu .tea-jiu {
+  width: 2.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 134.6rem;
+  top: 2.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-dmqr-4Yu .middle-pic-525 {
+  width: 75.2rem;
+  height: 62.5rem;
+  position: absolute;
+  left: 57.2rem;
+  top: 170.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 31.25rem;
+}
+.home-dmo .auto-group-dmqr-4Yu .p-oTs {
+  width: 34rem;
+  height: 35rem;
+  position: absolute;
+  left: 79rem;
+  top: 22.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 8.7rem;
+}
+.home-dmo .auto-group-dmqr-4Yu .p-9Gq {
+  width: 34rem;
+  height: 35rem;
+  position: absolute;
+  left: 117rem;
+  top: 22.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0 8.7rem 8.7rem 0;
+}
+.home-dmo .auto-group-dmqr-4Yu .p-HP3 {
+  width: 34rem;
+  height: 35rem;
+  position: absolute;
+  left: 155rem;
+  top: 22.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0 8.7rem 8.7rem 0;
+}
+.home-dmo .auto-group-dmqr-4Yu .p-cw7 {
+  width: 34rem;
+  height: 35rem;
+  position: absolute;
+  left: 41rem;
+  top: 22.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 8.7rem 0 0 8.7rem;
+}
+.home-dmo .auto-group-dmqr-4Yu .p-knR {
+  width: 34rem;
+  height: 35rem;
+  position: absolute;
+  left: 3rem;
+  top: 22.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 8.7rem 0 0 8.7rem;
+}
+.home-dmo .auto-group-dmqr-4Yu .why-65b {
+  width: 67.3rem;
+  height: 27.9rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 118.8rem;
+  background: linear-gradient(180deg, #a0e48f -0%, #b3eb9f 100%);
+  border-radius: 8.7rem;
+}
+.home-dmo .auto-group-dmqr-4Yu .rectangle-20-zgm {
+  width: 18.4rem;
+  height: 19rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0 0 0 14.3rem;
+}
+.home-dmo .auto-group-dmqr-4Yu .rectangle-24-XRo {
+  width: 19.5rem;
+  height: 18.7rem;
+  position: absolute;
+  left: 169.5rem;
+  top: 90.8rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-24-bg.png');
+  border-radius: 0 0 0 14.3rem;
+}
+.home-dmo .auto-group-dmqr-4Yu .certified-organic-products-Er1 {
+  width: 42.1rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 17.4rem;
+  top: 121.4rem;
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  font-style: italic;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-dmqr-4Yu .we-exclusively-offer-certified-organic-products-ensuring-that-every-item-on-our-shelves-meets-rigorous-standards-for-quality-k3f {
+  width: 51.3rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 128.4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-dmo .auto-group-dmqr-4Yu .rectangle-37-1kH {
+  width: 9.3rem;
+  height: 9.3rem;
+  position: absolute;
+  left: 31.2rem;
+  top: 139.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-dmqr-4Yu .why-kSy {
+  width: 70.5rem;
+  height: 25.4rem;
+  position: absolute;
+  left: 118.4rem;
+  top: 164.2rem;
+  background: linear-gradient(180deg, #a0e48f -0%, #b3eb9f 100%);
+  border-radius: 8.7rem;
+}
+.home-dmo .auto-group-dmqr-4Yu .dedicated-customer-service-g5j {
+  width: 44.9rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 131.1rem;
+  top: 166.3rem;
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  font-style: italic;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-dmqr-4Yu .emphasize-the-personalized-shopping-experience-and-exceptional-customer-service-PVw {
+  width: 58.7rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 123.6rem;
+  top: 173.1rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-dmo .auto-group-dmqr-4Yu .rectangle-40-5Nm {
+  width: 9.3rem;
+  height: 9.3rem;
+  position: absolute;
+  left: 149.9rem;
+  top: 184.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-dmqr-4Yu .why-c7o {
+  width: 70.5rem;
+  height: 29.7rem;
+  position: absolute;
+  left: 118.4rem;
+  top: 118.8rem;
+  background: linear-gradient(180deg, #a0e48f -0%, #b3eb9f 100%);
+  border-radius: 8.7rem;
+}
+.home-dmo .auto-group-dmqr-4Yu .local-sourcing-8bw {
+  width: 23.5rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 140.5rem;
+  top: 120.6rem;
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  font-style: italic;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-dmqr-4Yu .supporting-local-farmers-and-producers-is-at-the-heart-of-our-ethos-eqB {
+  width: 43.8rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 130.2rem;
+  top: 128.4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-dmo .auto-group-dmqr-4Yu .rectangle-38-Lxu {
+  width: 10.4rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 148.6rem;
+  top: 138.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-dmqr-4Yu .why-TGq {
+  width: 69.5rem;
+  height: 26.1rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 163.5rem;
+  background: linear-gradient(180deg, #a0e48e -0%, #b3eb9f 100%);
+  border-radius: 8.7rem;
+}
+.home-dmo .auto-group-dmqr-4Yu .eco-friendly-packaging-NPo {
+  width: 37.5rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 13.7rem;
+  top: 166.3rem;
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  font-style: italic;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-dmqr-4Yu .showcase-our-efforts-to-minimize-environmental-impact-through-eco-friendly-packaging-LE9 {
+  width: 36.6rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 14.7rem;
+  top: 173rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-dmo .auto-group-dmqr-4Yu .rectangle-39-DHw {
+  width: 8.5rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 31.2rem;
+  top: 186rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-bxpq-kYm {
+  width: 192rem;
+  height: 94.1rem;
+  position: absolute;
+  left: 0;
+  top: 392.2rem;
+}
+.home-dmo .auto-group-bxpq-kYm .product-bar-Txy {
+  width: 192rem;
+  height: 73.7rem;
+  position: absolute;
+  left: 0;
+  top: 15.5rem;
+  background: linear-gradient(180deg, rgba(44, 149, 15, 0.3799999952) -0%, rgba(226, 226, 226, 0.3799999952) 100%);
+}
+.home-dmo .auto-group-bxpq-kYm .our-products-ywK {
+  width: 42.9rem;
+  height: 6rem;
+  position: absolute;
+  left: 70.9rem;
+  top: 0;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-bxpq-kYm .rectangle-3-ua5 {
+  width: 35.8rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 76.9rem;
+  top: 87.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 16.6rem;
+}
+.home-dmo .auto-group-bxpq-kYm .all-products-Sa1 {
+  width: 23.4rem;
+  height: 4rem;
+  position: absolute;
+  left: 82.5rem;
+  top: 88.6rem;
+  font-size: 3.3rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  letter-spacing: 0.231rem;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-bxpq-kYm .cr-AF7 {
+  width: 53.4rem;
+  height: 21.6rem;
+  position: absolute;
+  left: 10.4rem;
+  top: 20.9rem;
+  background: linear-gradient(180deg, #a4dfb1 -0%, rgba(181, 221, 190, 0.6817709208) 32.34%, rgba(217, 217, 217, 0) 100%);
+  border-radius: 0 8.7rem 0 8.7rem;
+}
+.home-dmo .auto-group-bxpq-kYm .rectangle-57-Tk1 {
+  width: 18.4rem;
+  height: 19rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 1.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0 0 0 14.3rem;
+}
+.home-dmo .auto-group-bxpq-kYm .rectangle-41-zV3 {
+  width: 8.2rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 18.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-bxpq-kYm .rectangle-42-wQH {
+  width: 8.2rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 56.5rem;
+  top: 39.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-bxpq-kYm .rating-1-HU9 {
+  width: 22.4rem;
+  height: 12.4rem;
+  position: absolute;
+  left: 81.2rem;
+  top: 3.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-bxpq-kYm .i-absolutely-love-shopping-at-the-green-supermarket-the-variety-of-fresh-produce-is-incredible-and-i-appreciate-knowing-that-everything-is-organic-and-sustainably-sourced-RaM {
+  width: 48.7rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 12rem;
+  top: 26.1rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-dmo .auto-group-bxpq-kYm .emily-smith--UYd {
+  width: 14.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 26.6rem;
+  top: 37.7rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-bxpq-kYm .cr-o57 {
+  width: 53.4rem;
+  height: 21.6rem;
+  position: absolute;
+  left: 129.1rem;
+  top: 20.9rem;
+  background: linear-gradient(180deg, #a4dfb1 -0%, rgba(181, 221, 190, 0.6817709208) 32.34%, rgba(217, 217, 217, 0) 100%);
+  border-radius: 0 8.7rem 0 8.7rem;
+}
+.home-dmo .auto-group-bxpq-kYm .rectangle-43-6a1 {
+  width: 8.2rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 128.2rem;
+  top: 18.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-bxpq-kYm .rectangle-44-qGh {
+  width: 8.2rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 175.2rem;
+  top: 39.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-bxpq-kYm .the-quality-of-their-products-is-top-notch-and-i-love-that-i-can-find-unique-organic-items-that-i-cant-get-elsewhere-NXX {
+  width: 47.4rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 131.35rem;
+  top: 26.1rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-dmo .auto-group-bxpq-kYm .liam-johnson--SXP {
+  width: 16.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 147.6rem;
+  top: 35.3rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-bxpq-kYm .cr-m3s {
+  width: 53.4rem;
+  height: 21.6rem;
+  position: absolute;
+  left: 71.9rem;
+  top: 49.7rem;
+  background: linear-gradient(180deg, #a4dfb1 -0%, rgba(181, 221, 190, 0.6817709208) 32.34%, rgba(217, 217, 217, 0) 100%);
+  border-radius: 0 8.7rem 0 8.7rem;
+}
+.home-dmo .auto-group-bxpq-kYm .rectangle-45-TxH {
+  width: 8.2rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 71rem;
+  top: 46.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-bxpq-kYm .rectangle-46-omF {
+  width: 8.2rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 118rem;
+  top: 67.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-bxpq-kYm .im-so-glad-i-discovered-this-green-supermarket-not-only-do-they-have-a-fantastic-selection-of-organic-groceries-but-their-prepared-foods-section-is-a-lifesaver-on-busy-days-Yyj {
+  width: 47.5rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 74.1rem;
+  top: 54.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-dmo .auto-group-bxpq-kYm .sophia-chen--oem {
+  width: 14.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 88rem;
+  top: 66.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .our-products-Kd7 {
+  width: 30.8rem;
+  height: 6rem;
+  position: absolute;
+  left: 83.1rem;
+  top: 125.8rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .freshness-from-green-r7F {
+  width: 21.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 88.3rem;
+  top: 132.5rem;
+  font-size: 2.2rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-qjdk-Ykm {
+  width: 83.4rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 55.6rem;
+  top: 142.9rem;
+  display: flex;
+  align-items: center;
+}
+.home-dmo .auto-group-qjdk-Ykm .vegetable-1-sY9 {
+  margin-right: 12.6988rem;
+  width: 6.9012rem;
+  height: 6.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-dmo .auto-group-qjdk-Ykm .grape-1-cVj {
+  margin-right: 12.6rem;
+  width: 6.5rem;
+  height: 6.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-dmo .auto-group-qjdk-Ykm .breads-1-krq {
+  margin-right: 12.6rem;
+  width: 6.5rem;
+  height: 6.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-dmo .auto-group-qjdk-Ykm .soy-1-uDw {
+  margin-right: 12.6rem;
+  width: 6.5rem;
+  height: 6.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-dmo .auto-group-qjdk-Ykm .coffee-cup-1-r9B {
+  width: 6.5rem;
+  height: 6.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-dmo .auto-group-barj-CTw {
+  width: 192rem;
+  height: 51.9rem;
+  position: absolute;
+  left: 0;
+  top: 500.2rem;
+}
+.home-dmo .auto-group-barj-CTw .logo-bar-ut9 {
+  width: 192rem;
+  height: 41.4rem;
+  position: absolute;
+  left: 0;
+  top: 10.5rem;
+  background-color: rgba(107, 221, 132, 0.4900000095);
+}
+.home-dmo .auto-group-barj-CTw .rectangle-55-3zM {
+  width: 50.4rem;
+  height: 26.1rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 5.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-barj-CTw .every-choice-for-organic-today-nurtures-a-healthier-tomorrow-shop-consciously-at-our-organic-supermarket-and-grow-a-better-world-one-organic-purchase-at-a-time-PYR {
+  width: 63.7rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 28.6rem;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-dmo .auto-group-barj-CTw .our-products-2bP {
+  width: 10.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 87.7rem;
+  top: 14rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  font-style: italic;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-barj-CTw .home-9g1 {
+  width: 5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 91.05rem;
+  top: 19.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-barj-CTw .products-Fyw {
+  width: 7.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 89.75rem;
+  top: 24.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-barj-CTw .about-N2y {
+  width: 5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 90.8rem;
+  top: 29.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-barj-CTw .blog-tGD {
+  width: 3.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 90.85rem;
+  top: 39.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-barj-CTw .contact-us-oe5 {
+  width: 8.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 89.2rem;
+  top: 34.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-barj-CTw .nsbm-green-university-pitipana-thalagala-rd-homagama-sri-lanka-KcR {
+  width: 14.1rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 152.7rem;
+  top: 21.5rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-dmo .auto-group-barj-CTw .item-94-11-544-5000-94-71-244-5000-213 {
+  width: 9.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 151.9rem;
+  top: 30rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.home-dmo .auto-group-barj-CTw .inquiriesnsbmaclk-WS1 {
+  width: 13.1rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 151.8rem;
+  top: 36.6rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-barj-CTw .location-7-q6u {
+  width: 4.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 145.4rem;
+  top: 22.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-barj-CTw .telephone-7-xhK {
+  width: 2.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 146.2rem;
+  top: 30.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-barj-CTw .email-7-tqs {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 146.2rem;
+  top: 36.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-barj-CTw .blog-qFK {
+  width: 50.3rem;
+  height: 2rem;
+  position: absolute;
+  left: 64.6rem;
+  top: 47.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-barj-CTw .rectangle-56-MjT {
+  width: 20.7rem;
+  height: 19rem;
+  position: absolute;
+  left: 170.6rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0 0 0 10rem;
+}
+.home-dmo .auto-group-barj-CTw .our-products-Ht1 {
+  width: 7rem;
+  height: 2rem;
+  position: absolute;
+  left: 7.5rem;
+  top: 38.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-dmo .auto-group-barj-CTw .facebook3128208-6-1p1 {
+  width: 2.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 41.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-barj-CTw .instagram733614-6-kFo {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 11.4rem;
+  top: 41.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-barj-CTw .twitter733635-7-Gzq {
+  width: 2.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 41.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-barj-CTw .whatsapp733641-6-cYu {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 19.4rem;
+  top: 41.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-dmo .auto-group-barj-CTw .twitter733635-8-A4d {
+  width: 2.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 41.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}

@@ -1,0 +1,624 @@
+
+html {
+	font-size:8px;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  
+}.blog-gB7 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.blog-gB7 .auto-group-3jzh-CQM {
+  margin-bottom: 12.9rem;
+  width: 100%;
+  height: 23.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-gB7 .auto-group-3jzh-CQM .logo-bar-837 {
+  width: 192rem;
+  height: 21.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(113, 222, 137, 0.4900000095);
+}
+.blog-gB7 .auto-group-3jzh-CQM .user-icon-TLH {
+  width: 3.4571rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 153.8rem;
+  top: 11.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-gB7 .auto-group-3jzh-CQM .shopping-cart-icon-PUq {
+  width: 3.3786rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 177.8rem;
+  top: 11.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-gB7 .auto-group-3jzh-CQM .blog-WpM {
+  width: 15.2rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 159.2rem;
+  top: 11.8rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-gB7 .auto-group-3jzh-CQM .home-p4M {
+  width: 6.1rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 71rem;
+  top: 12.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-gB7 .auto-group-3jzh-CQM .products-jSD {
+  width: 9.2rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 81.4rem;
+  top: 12.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-gB7 .auto-group-3jzh-CQM .about-eZB {
+  width: 6.2rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 93.3rem;
+  top: 12.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-gB7 .auto-group-3jzh-CQM .blog-m81 {
+  width: 4.5rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 115.6rem;
+  top: 12.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-gB7 .auto-group-3jzh-CQM .contact-us-5eV {
+  width: 10.9rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 101.9rem;
+  top: 12.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-gB7 .auto-group-3jzh-CQM .rectangle-19-QAy {
+  width: 52rem;
+  height: 23.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-gB7 .blog-wRo {
+  margin: 0rem 0.1rem 12.4rem 0rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-gB7 .auto-group-rugv-T9F {
+  margin-bottom: 7.5rem;
+  box-sizing: border-box;
+  padding: 7.9rem 30.2rem 7.8rem 15.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #bae3ba;
+  flex-shrink: 0;
+}
+.blog-gB7 .auto-group-rugv-T9F .rectangle-10-B5F {
+  margin-right: 17.3rem;
+  width: 47.2rem;
+  height: 52.8rem;
+  border: solid 0.7rem #2c9510;
+  box-sizing: border-box;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-10-bg.png');
+  border-radius: 9.4rem;
+  flex-shrink: 0;
+}
+.blog-gB7 .auto-group-rugv-T9F .auto-group-x9dx-rx5 {
+  margin-bottom: 17.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-gB7 .auto-group-rugv-T9F .auto-group-x9dx-rx5 .helthy-life-pP7 {
+  margin-bottom: 10rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-gB7 .auto-group-rugv-T9F .auto-group-x9dx-rx5 .a-commitment-to-a-healthy-life-through-a-green-supermarket-amplifies-the-values-associated-with-well-being-and-environmental-consciousness-choosing-to-shop-at-a-green-supermarket-means-opting-for-fresh-organic-produce-that-supports-a-balanced-and-nutritious-diet-the-value-extends-beyond-personal-health-to-encompass-sustainable-practices-that-benefit-the-planet-by-selecting-locally-sourced-eco-friendly-products-individuals-contribute-to-reducing-their-carbon-footprint-and-supporting-environmentally-responsible-practices-green-supermarkets-often-prioritize-products-free-from-harmful-chemicals-and-pesticides-promoting-a-cleaner-and-more-natural-approach-to-nutrition-this-conscious-choice-not-only-benefits-personal-health-by-reducing-exposure-to-potentially-harmful-substances-but-also-supports-sustainable-farming-practices-that-prioritize-the-health-of-the-land-and-ecosystems-Z5o {
+  max-width: 81.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-gB7 .auto-group-vfwt-Ksb {
+  margin-bottom: 37.5rem;
+  width: 100%;
+  height: 83.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-gB7 .auto-group-vfwt-Ksb .rectangle-57-sPK {
+  width: 192rem;
+  height: 68.5rem;
+  position: absolute;
+  left: 0;
+  top: 15.2rem;
+  background-color: #bae3ba;
+}
+.blog-gB7 .auto-group-vfwt-Ksb .organic-srilanka-DTB {
+  width: 23.2rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 55.8rem;
+  top: 27.5rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-gB7 .auto-group-vfwt-Ksb .rectangle-28-XTs {
+  width: 47.2rem;
+  height: 52.8rem;
+  position: absolute;
+  left: 128.6rem;
+  top: 20.1rem;
+  border: solid 0.7rem #2c9510;
+  box-sizing: border-box;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-28-bg.png');
+  border-radius: 9.4rem;
+}
+.blog-gB7 .auto-group-vfwt-Ksb .organic-products-offered-by-a-green-supermarket-carry-significant-value-for-both-consumers-and-the-environment-firstly-organic-products-are-cultivated-without-the-use-of-synthetic-pesticides-herbicides-and-genetically-modified-organisms-promoting-healthier-food-options-this-enhances-the-nutritional-content-of-the-produce-and-reduces-the-potential-intake-of-harmful-chemicals-contributing-to-the-overall-well-being-of-consumers-environmentally-the-cultivation-of-organic-products-follows-sustainable-farming-practices-that-prioritize-soil-health-water-conservation-and-biodiversity-by-avoiding-synthetic-chemicals-organic-farming-minimizes-soil-and-water-pollution-preserving-ecosystems-and-promoting-long-term-ecological-balance-additionally-organic-farms-often-prioritize-animal-welfare-ensuring-humane-treatment-and-ethical-practices-in-livestock-management-dmo {
+  width: 80.2rem;
+  height: 21.6rem;
+  position: absolute;
+  left: 26.6rem;
+  top: 40.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.blog-gB7 .auto-group-vfwt-Ksb .rectangle-60-doj {
+  width: 19rem;
+  height: 20.1rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0 0 0 14.3rem;
+}
+.blog-gB7 .auto-group-mupd-Mzd {
+  margin-bottom: 25.8rem;
+  width: 100%;
+  height: 76rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-gB7 .auto-group-mupd-Mzd .gallery-Jus {
+  width: 11.8rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 88.4rem;
+  top: 2.6rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-gB7 .auto-group-mupd-Mzd .rectangle-17-cff {
+  width: 192rem;
+  height: 60rem;
+  position: absolute;
+  left: 0;
+  top: 16rem;
+  background-color: #b7eec3;
+}
+.blog-gB7 .auto-group-mupd-Mzd .rectangle-47-xjX {
+  width: 35rem;
+  height: 51.8rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 20.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-gB7 .auto-group-mupd-Mzd .rectangle-48-uPs {
+  width: 35rem;
+  height: 51.8rem;
+  position: absolute;
+  left: 41.4rem;
+  top: 20.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-gB7 .auto-group-mupd-Mzd .rectangle-49-ecM {
+  width: 35rem;
+  height: 51.8rem;
+  position: absolute;
+  left: 78.5rem;
+  top: 20.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-gB7 .auto-group-mupd-Mzd .rectangle-50-BsB {
+  width: 35rem;
+  height: 51.8rem;
+  position: absolute;
+  left: 115.6rem;
+  top: 20.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-gB7 .auto-group-mupd-Mzd .rectangle-51-Xw3 {
+  width: 35rem;
+  height: 51.8rem;
+  position: absolute;
+  left: 152.7rem;
+  top: 20.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-gB7 .auto-group-mupd-Mzd .rectangle-60-szu {
+  width: 19rem;
+  height: 20.1rem;
+  position: absolute;
+  left: 171.5rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0 0 0 14.3rem;
+}
+.blog-gB7 .auto-group-qgvb-pQM {
+  width: 100%;
+  height: 51.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.blog-gB7 .auto-group-qgvb-pQM .logo-bar-Z73 {
+  width: 192rem;
+  height: 41.4rem;
+  position: absolute;
+  left: 0;
+  top: 10.5rem;
+  background-color: rgba(107, 221, 132, 0.4900000095);
+}
+.blog-gB7 .auto-group-qgvb-pQM .rectangle-375-tv1 {
+  width: 50.4rem;
+  height: 26.1rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 5.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-gB7 .auto-group-qgvb-pQM .every-choice-for-organic-today-nurtures-a-healthier-tomorrow-shop-consciously-at-our-organic-supermarket-and-grow-a-better-world-one-organic-purchase-at-a-time-SAq {
+  width: 63.7rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 28.6rem;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.blog-gB7 .auto-group-qgvb-pQM .our-products-tYd {
+  width: 10.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 87.7rem;
+  top: 14rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  font-style: italic;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-gB7 .auto-group-qgvb-pQM .home-1NM {
+  width: 5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 91.05rem;
+  top: 19.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-gB7 .auto-group-qgvb-pQM .products-8C5 {
+  width: 7.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 89.75rem;
+  top: 24.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-gB7 .auto-group-qgvb-pQM .about-egD {
+  width: 5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 90.8rem;
+  top: 29.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-gB7 .auto-group-qgvb-pQM .blog-A8m {
+  width: 3.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 90.85rem;
+  top: 39.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-gB7 .auto-group-qgvb-pQM .contact-us-gcu {
+  width: 8.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 89.2rem;
+  top: 34.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-gB7 .auto-group-qgvb-pQM .nsbm-green-university-pitipana-thalagala-rd-homagama-sri-lanka-1QH {
+  width: 14.1rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 152.7rem;
+  top: 21.5rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.blog-gB7 .auto-group-qgvb-pQM .item-94-11-544-5000-94-71-244-5000-iJh {
+  width: 9.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 151.9rem;
+  top: 30rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.blog-gB7 .auto-group-qgvb-pQM .inquiriesnsbmaclk-CzZ {
+  width: 13.1rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 151.8rem;
+  top: 36.6rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-gB7 .auto-group-qgvb-pQM .location-10-vQm {
+  width: 4.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 145.4rem;
+  top: 22.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-gB7 .auto-group-qgvb-pQM .telephone-10-GUd {
+  width: 2.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 146.2rem;
+  top: 30.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-gB7 .auto-group-qgvb-pQM .email-10-ojT {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 146.2rem;
+  top: 36.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-gB7 .auto-group-qgvb-pQM .blog-LzH {
+  width: 50.3rem;
+  height: 2rem;
+  position: absolute;
+  left: 64.6rem;
+  top: 47.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-gB7 .auto-group-qgvb-pQM .rectangle-376-fWm {
+  width: 20.7rem;
+  height: 19rem;
+  position: absolute;
+  left: 170.6rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0 0 0 10rem;
+}
+.blog-gB7 .auto-group-qgvb-pQM .our-products-bvD {
+  width: 7rem;
+  height: 2rem;
+  position: absolute;
+  left: 7.5rem;
+  top: 38.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-gB7 .auto-group-qgvb-pQM .facebook3128208-5-ug1 {
+  width: 2.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 41.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-gB7 .auto-group-qgvb-pQM .instagram733614-5-e7o {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 11.4rem;
+  top: 41.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-gB7 .auto-group-qgvb-pQM .twitter733635-5-my7 {
+  width: 2.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 41.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-gB7 .auto-group-qgvb-pQM .whatsapp733641-5-uJd {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 19.4rem;
+  top: 41.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.blog-gB7 .auto-group-qgvb-pQM .twitter733635-6-qi5 {
+  width: 2.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 41.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}

@@ -1,0 +1,683 @@
+
+html {
+	font-size:8px;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  
+}.about-iys {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.about-iys .auto-group-lg5b-GEh {
+  margin-bottom: 16.9rem;
+  width: 100%;
+  height: 23.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-iys .auto-group-lg5b-GEh .logo-bar-PaD {
+  width: 192rem;
+  height: 21.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(113, 222, 137, 0.4900000095);
+}
+.about-iys .auto-group-lg5b-GEh .user-icon-8Xo {
+  width: 3.4571rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 153.8rem;
+  top: 11.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-iys .auto-group-lg5b-GEh .shopping-cart-icon-fXj {
+  width: 3.3786rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 177.8rem;
+  top: 11.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-iys .auto-group-lg5b-GEh .blog-15o {
+  width: 15.2rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 159.2rem;
+  top: 11.8rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-lg5b-GEh .home-WYM {
+  width: 6.1rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 71rem;
+  top: 12.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-lg5b-GEh .products-2Wh {
+  width: 9.2rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 81.4rem;
+  top: 12.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-lg5b-GEh .about-jvu {
+  width: 6.2rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 93.3rem;
+  top: 12.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-lg5b-GEh .blog-GA9 {
+  width: 4.5rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 115.6rem;
+  top: 12.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-lg5b-GEh .contact-us-PEm {
+  width: 10.9rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 101.9rem;
+  top: 12.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-lg5b-GEh .rectangle-58-uU1 {
+  width: 52rem;
+  height: 23.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-iys .about-us-3q7 {
+  margin: 0rem 2.4rem 12.1rem 0rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-iys .auto-group-n22y-APw {
+  margin-bottom: 9.1rem;
+  box-sizing: border-box;
+  padding: 5rem 27rem 8.5rem 16rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #bae3ba;
+  flex-shrink: 0;
+}
+.about-iys .auto-group-n22y-APw .auto-group-qwd3-HUZ {
+  margin: 0rem 12.1rem 12.1rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-iys .auto-group-n22y-APw .auto-group-qwd3-HUZ .who-we-are-E8u {
+  margin-bottom: 6.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-iys .auto-group-n22y-APw .auto-group-qwd3-HUZ .welcome-to-green-supermarket-where-our-commitment-to-sustainability-and-health-drives-everything-we-do-at-green-supermarket-we-believe-in-the-power-of-organic-eco-friendly-products-to-not-only-nourish-our-bodies-but-also-nurture-the-planet-our-shelves-are-stocked-with-a-handpicked-selection-of-the-finest-organic-produce-ethically-sourced-goods-and-environmentally-conscious-items-all-aimed-at-promoting-a-healthier-lifestyle-while-reducing-our-ecological-footprint-were-dedicated-to-supporting-local-farmers-and-producers-who-share-our-values-ensuring-that-every-product-on-our-shelves-meets-rigorous-standards-for-quality-freshness-and-sustainability-our-goal-is-to-make-it-effortless-for-you-to-choose-products-that-are-good-for-both-you-and-the-planet-med {
+  max-width: 90.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3608649572;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-iys .auto-group-n22y-APw .rectangle-4-PZX {
+  margin-top: 3.1rem;
+  width: 46.5rem;
+  height: 51.9rem;
+  border: solid 0.7rem #2c950f;
+  box-sizing: border-box;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-4-bg.png');
+  border-radius: 5.5rem;
+  flex-shrink: 0;
+}
+.about-iys .auto-group-pdnm-5hF {
+  margin-bottom: 33rem;
+  width: 100%;
+  height: 83.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-iys .auto-group-pdnm-5hF .rectangle-57-E4M {
+  width: 192.9rem;
+  height: 68.5rem;
+  position: absolute;
+  left: 0;
+  top: 15.1rem;
+  background-color: #bae3ba;
+}
+.about-iys .auto-group-pdnm-5hF .our-specialist-NRT {
+  width: 20.8rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 96rem;
+  top: 20.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-pdnm-5hF .rectangle-27-HHX {
+  width: 46.5rem;
+  height: 51.9rem;
+  position: absolute;
+  left: 26.1rem;
+  top: 23.5rem;
+  border: solid 0.7rem #2c950f;
+  box-sizing: border-box;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-27-bg.png');
+  border-radius: 5.5rem;
+}
+.about-iys .auto-group-pdnm-5hF .at-our-green-supermarket-we-pride-ourselves-on-our-unique-offerings-tailored-to-support-a-sustainable-lifestyle-our-shelves-boast-a-colorful-array-of-fresh-organically-grown-produce-sourced-directly-from-local-farms-dedicated-to-eco-friendly-practices-delve-into-our-bulk-section-a-haven-for-conscious-shoppers-looking-to-reduce-waste-by-filling-their-containers-with-an-assortment-of-grains-nuts-and-seeds-explore-our-artisanal-goods-a-collection-of-handcrafted-delights-from-local-artisans-including-small-batch-bread-cheeses-and-preserves-that-embody-the-passion-of-our-community-unwind-at-our-wellness-corner-where-natural-supplements-herbal-teas-and-organic-personal-care-products-cater-to-your-holistic-well-being-join-our-sustainability-workshops-to-learn-valuable-insights-from-composting-to-eco-friendly-diy-practices-fostering-a-shared-commitment-to-a-greener-healthier-future-for-all-nzy {
+  width: 85.2rem;
+  height: 42.5rem;
+  position: absolute;
+  left: 96rem;
+  top: 27.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3608649572;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.about-iys .auto-group-pdnm-5hF .rectangle-25-YmB {
+  width: 19rem;
+  height: 20.1rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0 0 0 14.3rem;
+}
+.about-iys .auto-group-1fem-5FK {
+  margin: 0rem 3.752rem 18.9rem 8rem;
+  width: calc(100% - 11.7519rem);
+  height: 82.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-iys .auto-group-1fem-5FK .faq-Bp9 {
+  width: 5.1rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 80.1rem;
+  top: 0;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-1fem-5FK .rectangle-7-Jds {
+  width: 175.7rem;
+  height: 74.8rem;
+  position: absolute;
+  left: 0;
+  top: 7.4rem;
+  background-color: #bae3ba;
+  border-radius: 0 10rem 0 10rem;
+}
+.about-iys .auto-group-1fem-5FK .how-can-i-be-sure-that-the-products-in-your-supermarket-are-really-organic-qNu {
+  width: 77.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 11.7rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-1fem-5FK .we-source-our-products-from-certified-organic-farms-and-suppliers-look-for-official-organic-certifications-on-the-packaging-ensuring-that-the-product-meets-strict-organic-standards-L4m {
+  width: 123rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 8.3rem;
+  top: 17.9rem;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.about-iys .auto-group-1fem-5FK .yes-we-regularly-offer-discounts-and-promotions-on-various-organic-products-check-our-weekly-specials-and-loyalty-program-for-additional-savings-aE1 {
+  width: 121.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 8rem;
+  top: 36.4rem;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-1fem-5FK .we-are-committed-to-sustainability-we-minimize-packaging-encourage-customers-to-bring-their-reusable-bags-and-implement-recycling-programs-qQq {
+  width: 121.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 8.7rem;
+  top: 54.1rem;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-1fem-5FK .yes-we-offer-online-ordering-with-convenient-delivery-options-you-can-browse-our-selection-place-orders-and-have-your-organic-products-delivered-to-your-doorstep-hhw {
+  width: 136.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 8.7rem;
+  top: 71.8rem;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-1fem-5FK .do-you-have-any-discounts-or-promotions-on-organic-products-xds {
+  width: 64.2rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 30.2rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-1fem-5FK .what-steps-do-you-take-to-reduce-waste-rz9 {
+  width: 41.3rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 48.7rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-1fem-5FK .can-i-order-products-online-Azq {
+  width: 29.1rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 66.4rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-1fem-5FK .badge-1-HZf {
+  width: 26.7481rem;
+  height: 28.5293rem;
+  position: absolute;
+  left: 153.5rem;
+  top: 1.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-iys .auto-group-aers-QuB {
+  width: 100%;
+  height: 51.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-iys .auto-group-aers-QuB .logo-bar-Lnq {
+  width: 192rem;
+  height: 41.4rem;
+  position: absolute;
+  left: 0;
+  top: 10.5rem;
+  background-color: rgba(107, 221, 132, 0.4900000095);
+}
+.about-iys .auto-group-aers-QuB .rectangle-58-V9w {
+  width: 50.4rem;
+  height: 26.1rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 5.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-iys .auto-group-aers-QuB .every-choice-for-organic-today-nurtures-a-healthier-tomorrow-shop-consciously-at-our-organic-supermarket-and-grow-a-better-world-one-organic-purchase-at-a-time-1e5 {
+  width: 63.7rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 28.6rem;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.about-iys .auto-group-aers-QuB .our-products-23P {
+  width: 10.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 87.7rem;
+  top: 14rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  font-style: italic;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-aers-QuB .home-LZs {
+  width: 5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 91.05rem;
+  top: 19.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-aers-QuB .products-FRw {
+  width: 7.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 89.75rem;
+  top: 24.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-aers-QuB .about-y73 {
+  width: 5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 90.8rem;
+  top: 29.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-aers-QuB .blog-HNd {
+  width: 3.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 90.85rem;
+  top: 39.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-aers-QuB .contact-us-D1P {
+  width: 8.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 89.2rem;
+  top: 34.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-aers-QuB .nsbm-green-university-pitipana-thalagala-rd-homagama-sri-lanka-vwP {
+  width: 14.1rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 152.7rem;
+  top: 21.5rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.about-iys .auto-group-aers-QuB .item-94-11-544-5000-94-71-244-5000-2Ud {
+  width: 9.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 151.9rem;
+  top: 30rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+}
+.about-iys .auto-group-aers-QuB .inquiriesnsbmaclk-8Gm {
+  width: 13.1rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 151.8rem;
+  top: 36.6rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-aers-QuB .location-8-eF7 {
+  width: 4.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 145.4rem;
+  top: 22.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-iys .auto-group-aers-QuB .telephone-8-z45 {
+  width: 2.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 146.2rem;
+  top: 30.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-iys .auto-group-aers-QuB .email-8-viR {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 146.2rem;
+  top: 36.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-iys .auto-group-aers-QuB .blog-TCZ {
+  width: 50.3rem;
+  height: 2rem;
+  position: absolute;
+  left: 64.6rem;
+  top: 47.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-aers-QuB .rectangle-59-NqK {
+  width: 20.7rem;
+  height: 19rem;
+  position: absolute;
+  left: 170.6rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0 0 0 10rem;
+}
+.about-iys .auto-group-aers-QuB .our-products-uaM {
+  width: 7rem;
+  height: 2rem;
+  position: absolute;
+  left: 7.5rem;
+  top: 38.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-iys .auto-group-aers-QuB .facebook3128208-5-RYh {
+  width: 2.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 41.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-iys .auto-group-aers-QuB .instagram733614-5-9zV {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 11.4rem;
+  top: 42rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-iys .auto-group-aers-QuB .twitter733635-5-6Pw {
+  width: 2.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 42rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-iys .auto-group-aers-QuB .whatsapp733641-5-duf {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 19.4rem;
+  top: 42rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-iys .auto-group-aers-QuB .twitter733635-6-NsF {
+  width: 2.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 42rem;
+  object-fit: cover;
+  vertical-align: top;
+}
