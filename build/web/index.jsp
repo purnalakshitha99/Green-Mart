@@ -79,7 +79,7 @@
     <img class="rectangle-18-KLR" src="new/logo.png"/>
   </div>-->
 
- <nav class="navigation" style="background-color:#D2E3C8;   padding: 3px;     max-width: 87%; margin-left: 1px; padding: 0px;">
+ <nav class="navigation" style="background-color:#c6eecd;   padding: 3px;     max-width: 87%; margin-left: 1px; padding: 0px;">
       <div>
       <a href="index.jsp">  <img src="new/logo.png" style="width:200px; height: 100px;" alt="Logo"></a>
       </div>
