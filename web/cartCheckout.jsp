@@ -143,7 +143,7 @@
         <div class="order-details">
          
             <form>
-                <p>Available Balance : ${balance}</p>
+               
                 <input type="text" placeholder="Credit/Debit Card No">
                 <input type="text" placeholder="CVV">
                 <input type="text" placeholder="Expire Date">
@@ -153,6 +153,8 @@
                  <div class="text-right">
            <a id="payNowLink" href="CartOrderServlet">
     <button class="btn btn-primary">Pay Now</button>
+    <br>
+     <p style='margin-top: 22px;'>Available Balance : ${balance}</p>
 </a>
                  </div>
          
