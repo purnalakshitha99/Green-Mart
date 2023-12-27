@@ -22,24 +22,26 @@
     <title>GREEN Supermarket</title>
   </head>
   <body>
-    <nav class="navigation">
-        <a href="index.html" class="logo"> <span>GREEN&nbsp;</span>Supermarket </a>
+     <nav class="navigation" style="background-color:#D2E3C8;   padding: 3px;     max-width: 100%;">
+      <div>
+      <a href="index.jsp">  <img src="new/logo.png" style="width:200px; height: 100px;" alt="Logo"></a>
+      </div>
       <!--menu-btn---->
       <input type="checkbox" class="menu-btn" id="menu-btn" />
       <label for="menu-btn" class="menu-icon">
         <span class="nav-icon"></span>
       </label>
       <!--menu-------->
-      <ul class="menu">
-        <li><a href="index.jsp" class="active">Home</a></li>
-        <li><a href="product.jsp">Products</a></li>
-        <li><a href="about.jsp">About</a></li>
-        <li><a href="review.jsp">Review</a></li>
-        <li><a href="order.jsp">Order</a></li>
-        <li><a href="Logout">Logout</a></li>
-      </ul>
+<ul class="menu" style="margin-top: 30px; ">
+    <li style="font-size: 20px;"><a href="index.jsp" class="active">Home</a></li>
+    <li style="font-size: 20px;"><a href="product.jsp">Products</a></li>
+    <li style="font-size: 20px;"><a href="about.jsp">About</a></li>
+    <li style="font-size: 20px;"><a href="review.jsp">Review</a></li>
+    <li style="font-size: 20px;"><a href="order.jsp">Order</a></li>
+    <li style="font-size: 20px;"><a href="Logout">Logout</a></li>
+</ul>
       <!--right-nav-(cart-like)-->
-      <div class="right-nav">
+      <div class="right-nav" style="margin-top: 25px;">
         <!--cart----->
         <a href="cart.jsp" class="cart">
           <i class="fas fa-shopping-cart"></i>

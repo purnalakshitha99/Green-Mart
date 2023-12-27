@@ -24,6 +24,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="css/stylesheet.css" />
+    
     <link rel="stylesheet" href="css/review.css" />
     <link rel="stylesheet" href="css/checkout.css" />
     <link rel="shortcut icon" href="images/Green.jpg" />
@@ -58,24 +59,26 @@
 
 </head>
 <body>
-  <nav class="navigation">
-        <a href="index.html" class="logo"> <span>GREEN&nbsp;</span>Supermarket </a>
+  <nav class="navigation" style="background-color:D2E3C8;   padding: 3px;     max-width: 100%;">
+      <div>
+      <a href="index.jsp">  <img src="new/logo.png" style="width:200px; height: 100px;" alt="Logo"></a>
+      </div>
       <!--menu-btn---->
       <input type="checkbox" class="menu-btn" id="menu-btn" />
       <label for="menu-btn" class="menu-icon">
         <span class="nav-icon"></span>
       </label>
       <!--menu-------->
-      <ul class="menu">
-        <li><a href="index.jsp" class="active">Home</a></li>
-        <li><a href="product.jsp">Products</a></li>
-        <li><a href="about.jsp">About</a></li>
-        <li><a href="review.jsp">Review</a></li>
-        <li><a href="order.jsp">Order</a></li>
-        <li><a href="Logout">Logout</a></li>
-      </ul>
+<ul class="menu" style="margin-top: 30px; ">
+    <li style="font-size: 10px;"><a href="index.jsp" class="active">Home</a></li>
+    <li style="font-size: 10px;"><a href="product.jsp">Products</a></li>
+    <li style="font-size: 20px;"><a href="about.jsp">About</a></li>
+    <li style="font-size: 20px;"><a href="review.jsp">Review</a></li>
+    <li style="font-size: 20px;"><a href="order.jsp">Order</a></li>
+    <li style="font-size: 20px;"><a href="Logout">Logout</a></li>
+</ul>
       <!--right-nav-(cart-like)-->
-      <div class="right-nav">
+      <div class="right-nav" style="margin-top: 25px;">
         <!--cart----->
         <a href="cart.jsp" class="cart">
           <i class="fas fa-shopping-cart"></i>
@@ -83,12 +86,14 @@
         </a>
       </div>
     </nav>
+        
+        <div class="parent"style="margin-top: 65px;">
     
     <div class="row">
         <div class="column">
                <div class="c_us">
                    <h1>Order Details</h1>
-    	<div class="container my-3">
+    	<div class="container my-3"style="height:234px;" >
 
 		<table class="table table-light">
 			<thead>
@@ -154,8 +159,9 @@
            <a id="payNowLink" href="CartOrderServlet">
     <button class="btn btn-primary">Pay Now</button>
     <br>
+    </a>
      <p style='margin-top: 22px;'>Available Balance : ${balance}</p>
-</a>
+
                  </div>
          
            
@@ -164,6 +170,8 @@
     </div> 
         </div>
 </div>
+     
+        </div>
 
    
    

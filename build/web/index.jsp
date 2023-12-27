@@ -16,6 +16,25 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Chelsea+Market%3A400"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inria+Serif%3A300%2C400%2C700"/>
   <link rel="stylesheet" href="hnew/styles/home.css"/>
+   <link rel="stylesheet" href="css/stylesheet.css" />
+   
+   <link rel="shortcut icon" href="images/Green.jpg" />
+    <link
+      rel="stylesheet"
+      href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+      crossorigin="anonymous"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+   
+   
+   
+   
 </head>
 <body>
 <div class="home-dmo">
@@ -45,7 +64,7 @@
     Super Healthy
     <br/>
     Organic Products
-    </p>
+<!--    </p>
     <div class="logo-bar-sos">
     </div>
     <img class="rectangle-470-RaV" src="new/rectangle-470.png"/>
@@ -58,7 +77,41 @@
    
     <a href="contact.jsp"><p class="contact-us-bfK">Contact us</p></a>
     <img class="rectangle-18-KLR" src="new/logo.png"/>
-  </div>
+  </div>-->
+
+ <nav class="navigation" style="background-color:#D2E3C8;   padding: 3px;     max-width: 87%; margin-left: 1px; padding: 0px;">
+      <div>
+      <a href="index.jsp">  <img src="new/logo.png" style="width:200px; height: 100px;" alt="Logo"></a>
+      </div>
+      <!--menu-btn---->
+      <input type="checkbox" class="menu-btn" id="menu-btn" />
+      <label for="menu-btn" class="menu-icon">
+        <span class="nav-icon"></span>
+      </label>
+      <!--menu-------->
+<ul class="menu" style="margin-top: 30px; margin-top: 23px; margin-left:16px;">
+    <li style="font-size: 20px;"><a href="index.jsp" >Home</a></li>
+    <li style="font-size: 20px;"><a href="product.jsp">Products</a></li>
+    <li style="font-size: 20px;"><a href="about.jsp">About</a></li>
+    <li style="font-size: 20px;"><a href="review.jsp">Review</a></li>
+    <li style="font-size: 20px;"><a href="order.jsp">Order</a></li>
+    <li style="font-size: 20px;"><a href="Logout">Logout</a></li>
+    
+ 
+    
+    
+</ul>
+      <!--right-nav-(cart-like)-->
+      <div class="right-nav" style="margin-top: 25px; margin-right: 40px;
+           ">
+        <!--cart----->
+           <a href="cart.jsp" class="cart">
+          <i class="fas fa-shopping-cart" style="font-size: 20px;"></i>
+          <span>${cart_list.size()}</span>
+        </a>
+      </div>
+    </nav>
+
   <div class="auto-group-dmqr-4Yu">
     <div class="product-bar-AM3">
     </div>

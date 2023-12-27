@@ -71,24 +71,26 @@ font-size: 25px;
 </style>
 </head>
 <body>
-	<nav class="navigation">
-        <a href="index.html" class="logo"> <span>GREEN&nbsp;</span>Supermarket </a>
+	 <nav class="navigation" style="background-color:#D2E3C8;   padding: 3px;     max-width: 100%;">
+      <div>
+      <a href="index.jsp">  <img src="new/logo.png" style="width:200px; height: 100px;" alt="Logo"></a>
+      </div>
       <!--menu-btn---->
       <input type="checkbox" class="menu-btn" id="menu-btn" />
       <label for="menu-btn" class="menu-icon">
         <span class="nav-icon"></span>
       </label>
       <!--menu-------->
-      <ul class="menu">
-        <li><a href="index.jsp" class="active">Home</a></li>
-        <li><a href="product.jsp">Products</a></li>
-        <li><a href="about.jsp">About</a></li>
-        <li><a href="review.jsp">Review</a></li>
-        <li><a href="order.jsp">Order</a></li>
-        <li><a href="Logout">Logout</a></li>
-      </ul>
+<ul class="menu" style="margin-top: 30px; margin-left: -8px; ">
+    <li style="font-size: 10px;"><a href="index.jsp" >Home</a></li>
+    <li style="font-size: 20px;"><a href="product.jsp">Products</a></li>
+    <li style="font-size: 20px;"><a href="about.jsp">About</a></li>
+    <li style="font-size: 20px;"><a href="review.jsp">Review</a></li>
+    <li style="font-size: 20px;"><a href="order.jsp">Order</a></li>
+    <li style="font-size: 20px;"><a href="Logout">Logout</a></li>
+</ul>
       <!--right-nav-(cart-like)-->
-      <div class="right-nav">
+      <div class="right-nav" style="margin-top: 25px;">
         <!--cart----->
         <a href="cart.jsp" class="cart">
           <i class="fas fa-shopping-cart"></i>
@@ -96,10 +98,14 @@ font-size: 25px;
         </a>
       </div>
     </nav>
-
+        <div class="parent" style="margin-top:45px;">
 	<div class="container my-3">
-		<div class="d-flex py-3"><h3>Total Price: $ ${(total>0)?dcf.format(total):0} </h3> <a class="mx-3 btn btn-primary" href="CartCheckoutServlet">Check Out</a></div>
-		<table class="table table-light">
+            
+           
+	
+                
+               
+		<table class="table table-light" style="border-radius: 30px; box-shadow: 0 5px 10px rgba(0,0,0,0.2); height: 50px;">
 			<thead>
 				<tr>
 					<th scope="col">Name</th>
@@ -140,7 +146,11 @@ font-size: 25px;
 				}}%>
 			</tbody>
 		</table>
+                        
+                                <div class="d-flex py-3"><h3>Total Price: $ ${(total>0)?dcf.format(total):0} </h3><div class="buttonP" style ="margin-left: 719px;"> <a class="mx-3 btn btn-primary" href="CartCheckoutServlet">Check Out</a></div></div>
+            
 	</div>
+        </div>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>

@@ -47,25 +47,26 @@ if (cart_list != null) {
     <title>Products</title>
   </head>
   <body>
-    <nav class="navigation">
-        <a href="index.html" class="logo"> <span>GREEN&nbsp;</span>Supermarket </a>
+   <nav class="navigation" style="background-color:#D2E3C8;   padding: 3px;     max-width: 100%;">
+      <div>
+      <a href="index.jsp">  <img src="new/logo.png" style="width:200px; height: 100px;" alt="Logo"></a>
+      </div>
       <!--menu-btn---->
       <input type="checkbox" class="menu-btn" id="menu-btn" />
       <label for="menu-btn" class="menu-icon">
         <span class="nav-icon"></span>
       </label>
       <!--menu-------->
-      <ul class="menu">
-        <li><a href="index.jsp" class="active">Home</a></li>
-        <li><a href="product.jsp">Products</a></li>
-        <li><a href="about.jsp">About</a></li>
-        <li><a href="review.jsp">Review</a></li>
-        <li><a href="order.jsp">Order</a></li>
-        <li><a href="Logout">Logout</a></li>
-        
-      </ul>
+<ul class="menu" style="margin-top: 30px; margin-left: -8px; ">
+    <li style="font-size: 10px;"><a href="index.jsp" >Home</a></li>
+    <li style="font-size: 20px;"><a href="product.jsp">Products</a></li>
+    <li style="font-size: 20px;"><a href="about.jsp">About</a></li>
+    <li style="font-size: 20px;"><a href="review.jsp">Review</a></li>
+    <li style="font-size: 20px;"><a href="order.jsp">Order</a></li>
+    <li style="font-size: 20px;"><a href="Logout">Logout</a></li>
+</ul>
       <!--right-nav-(cart-like)-->
-      <div class="right-nav">
+      <div class="right-nav" style="margin-top: 25px;">
         <!--cart----->
         <a href="cart.jsp" class="cart">
           <i class="fas fa-shopping-cart"></i>
@@ -73,17 +74,22 @@ if (cart_list != null) {
         </a>
       </div>
     </nav>
-      <div class="container">
-		<div class="card-header my-3">All Products</div>
+        <div class="container" style="margin-top:35px">
+		<div class="card-header my-3" style="font-size: 20px; font-weight: bold; background: #B2C8BA; height: 51px" >All Products</div>
+
+                
+                
+
+                
 		<div class="row">
 			<%
 			if (!products.isEmpty()) {
 				for (Product p : products) {
 			%>
 			<div class="col-md-4 my-3">
-				<div class="card w-100">
-					<img class="card-img-top" src="<%=p.getImage() %>"
-						alt="Card image cap">
+				<div class="card w-100" style="border-radius: 30px; box-shadow: 0 5px 10px rgba(0,0,0,0.2); height: 381px;">
+					<img class="card-img-top mx-auto d-block" style="width: 60%;" src="<%=p.getImage() %>" alt="Card image cap">
+
 					<div class="card-body">
 						<h5 class="card-title"><%=p.getName() %></h5>
 						<h6 class="price">Price: RS.<%=p.getPrice()%></h6>
