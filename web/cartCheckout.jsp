@@ -72,7 +72,7 @@
 <ul class="menu" style="margin-top: 30px; ">
     <li style="font-size: 10px;"><a href="index.jsp" class="active">Home</a></li>
     <li style="font-size: 10px;"><a href="product.jsp">Products</a></li>
-    <li style="font-size: 20px;"><a href="aboutus.jsp">About</a></li>
+    <li style="font-size: 20px;"><a href="about.jsp">About</a></li>
     <li style="font-size: 20px;"><a href="review.jsp">Review</a></li>
     <li style="font-size: 20px;"><a href="order.jsp">Order</a></li>
     <li style="font-size: 20px;"><a href="Logout">Logout</a></li>
