@@ -79,30 +79,9 @@
 
 </head>
 <body>
- <nav class="navigation">
-        <a href="index.html" class="logo"> <span>GREEN&nbsp;</span>Supermarket </a>
-      <!--menu-btn---->
-      <input type="checkbox" class="menu-btn" id="menu-btn" />
-      <label for="menu-btn" class="menu-icon">
-        <span class="nav-icon"></span>
-      </label>
-      <!--menu-------->
-      <ul class="menu">
-        <li><a href="index.jsp" class="active">Home</a></li>
-        <li><a href="product.jsp">Products</a></li>
-        <li><a href="about.jsp">About</a></li>
-        <li><a href="review.jsp">Review</a></li>
-        <li><a href="order.jsp">Order</a></li>
-        <li><a href="Logout">Logout</a></li>
-      </ul>
-      <!--right-nav-(cart-like)-->
-      <div class="right-nav">
-        <!--cart----->
-        <a href="cart.jsp" class="cart">
-          <i class="fas fa-shopping-cart"></i>
-          <span>${cart_list.size()}</span>
-        </a>
-      </div>
+    <nav class="navigation">
+        <a href="" class="logo"> <span>GREEN&nbsp;</span>Supermarket </a>
+     
     </nav>
     
     <div class="row">
@@ -125,7 +104,7 @@
         <div class="column">
           
               <div class="c_us" >
-        <h1>Paymentttttt</h1>
+        <h1>Payment</h1>
         <div class="order-details">
          
           <form style="font-family: 'Poppins', sans-serif;">

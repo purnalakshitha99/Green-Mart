@@ -150,9 +150,11 @@
                 
 
             </form>
+                 <div class="text-right">
            <a id="payNowLink" href="CartOrderServlet">
-    <button class="btn">Pay Now</button>
+    <button class="btn btn-primary">Pay Now</button>
 </a>
+                 </div>
          
            
             <!-- Add more product details as needed -->
