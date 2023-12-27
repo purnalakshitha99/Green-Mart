@@ -79,15 +79,43 @@
 
 </head>
 <body>
-    <nav class="navigation">
-        <a href="" class="logo"> <span>GREEN&nbsp;</span>Supermarket </a>
-     
+   <nav class="navigation" style="background-color:#D2E3C8;   padding: 3px;     max-width: 100%;">
+      <div>
+      <a href="index.jsp">  <img src="new/logo.png" style="width:200px; height: 100px;" alt="Logo"></a>
+      </div>
+      <!--menu-btn---->
+      <input type="checkbox" class="menu-btn" id="menu-btn" />
+      <label for="menu-btn" class="menu-icon">
+        <span class="nav-icon"></span>
+      </label>
+      <!--menu-------->
+<ul class="menu" style="margin-top: 30px; margin-left: -8px; ">
+    <li style="font-size: 10px;"><a href="index.jsp" >Home</a></li>
+    <li style="font-size: 20px;"><a href="product.jsp">Products</a></li>
+    <li style="font-size: 20px;"><a href="aboutus.jsp">About</a></li>
+    <li style="font-size: 20px;"><a href="review.jsp">Review</a></li>
+    <li style="font-size: 20px;"><a href="order.jsp">Order</a></li>
+    <li style="font-size: 20px;"><a href="Logout">Logout</a></li>
+</ul>
+      <!--right-nav-(cart-like)-->
+      <div class="right-nav" style="margin-top: 25px;">
+        <!--cart----->
+        <a href="cart.jsp" class="cart">
+          <i class="fas fa-shopping-cart"></i>
+          <span>${cart_list.size()}</span>
+        </a>
+      </div>
     </nav>
+        
+        
+           <div class="parent"style="margin-top: 65px;">
     
     <div class="row">
         <div class="column">
-               <div class="c_us">
+            <div class="c_us" >
                    <h1>Order Details</h1>
+                   
+                   <div class="container my-3"style="height:234px;" >
      <div class="product-details" >
                 <p>Product Name: ${productName}</p>
                  <p>Category: ${category}</p>
@@ -96,7 +124,7 @@
                <input type="number" id="quantity" placeholder="quantity" value="${quantity}" min="1" oninput="updateTotalPrice()">
                 <p id="totalPrice">Total Price: ${price}</p>
             </div>
-           
+                   </div>
         
     </div>
                 
@@ -105,17 +133,19 @@
           
               <div class="c_us" >
         <h1>Payment</h1>
-        <div class="order-details">
+        <div class="order-details" style="height:239px;">
          
           <form style="font-family: 'Poppins', sans-serif;">
-    <p>Available Balance: ${balance} </p>
+    
     <input type="text" placeholder="Credit/Debit Card No" required>
     <input type="text" placeholder="CVV" required>
     <input type="text" placeholder="Expire Date" required>
 </form>
-           <a id="payNowLink" href="order-now?productId=${productId}&productName=${productName}&price=${price}&quantity=1&uid=<%= request.getSession().getAttribute("userId") %>&cartId=${cartId}">
-    <button class="btn">Pay Now</button>
+        <a href="order-now?productId=${productId}&productName=${productName}&price=${price}&quantity=1&uid=<%= request.getSession().getAttribute("userId") %>&cartId=${cartId}" style="display: block; text-align: right; text-decoration: none;">
+  <button style="background-color: blue; color: white; padding: 10px 20px; border: none; cursor: pointer;">Pay Now</button>
 </a>
+        <p class="available" style="text-align: right; margin-top:12px;">Available Balance: ${balance} </p>
+
          
            
             <!-- Add more product details as needed -->
@@ -123,6 +153,7 @@
     </div> 
         </div>
 </div>
+           </div>
 
    
    
