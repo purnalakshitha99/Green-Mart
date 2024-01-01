@@ -3,37 +3,24 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/RemoveFromCartServlet.java</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/OrderDao.java</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/purchase.java</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/DbCon.java</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/login.java</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/OrderNowServlet.java</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/QuantityIncDecServlet.java</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/AddToCartServlet.java</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/web/checkout.jsp</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/web/css/review.css</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/CartOrderServlet.java</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/web/product.jsp</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/web/registration.jsp</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/CheckOutServlet.java</file>
+            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/web/aboutus.jsp</file>
             <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/Product.java</file>
             <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/CartDao.java</file>
             <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/User.java</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/CartItem.java</file>
+            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/OrderDao.java</file>
             <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/RegistrationServlet.java</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/CartCheckoutServlet.java</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/Order.java</file>
+            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/DbCon.java</file>
+            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/web/about.jsp</file>
             <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/ProductDao.java</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/web/purchase.jsp</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/CancelOrderServlet.java</file>
+            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/web/cartCheckout.jsp</file>
             <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/Cart.java</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/Logout.java</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/purchaseservelet.java</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/CartServlet.java</file>
+            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/web/order.jsp</file>
+            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/web/review.jsp</file>
+            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/OrderNowServlet.java</file>
+            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/web/checkout.jsp</file>
+            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/web/index.jsp</file>
             <file>file:/F:/Project/Servlet%20new/NetBeansProjects/web/login.jsp</file>
             <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/UserDao.java</file>
-            <file>file:/F:/Project/Servlet%20new/NetBeansProjects/src/java/com/uniquedeveloper/registration/RegistrationServletImpl.java</file>
         </group>
     </open-files>
 </project-private>
